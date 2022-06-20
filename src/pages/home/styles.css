@@ -15,7 +15,7 @@
 }
 
 .container input{
-    margin: 10px auto;
+    margin: 10px ;
     background: #e6e6e6;
     width: 50%;
     height: 50px;
@@ -26,7 +26,7 @@
 }
 
 .container button{
-    margin: 10px auto;
+    margin: 10px 0px 20px 0px;
     background: #EA4C89;
     width: 50%;
     height: 50px;
